@@ -3,7 +3,7 @@ A sample Streamlit web application to demo LLM observability using [LangChain](h
 
 LangChain is an open-source framework created to aid the development of applications leveraging the power of large language models (LLMs). It can be used for chatbots, text summarisation, data generation, code understanding, question answering, evaluation, and more. Helicone, on the other hand, is an open-source tool for tracking costs, usage, and latency for LLM-powered applications. 
 
-<img src="./helicone.png" alt="helicone" height="300"/>
+<img src="./helicone.png" alt="helicone" height="260"/>
 
 To deploy on [Railway](https://railway.app/?referralCode=alphasec) using a one-click template, click the button below.
 
